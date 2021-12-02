@@ -1,6 +1,7 @@
 # RWTH CSME Bonus Assigment
 
 ### [Bonus Assigment 1 PDF](./CSME2-WS2122-BonusPointAssignment1-1.pdf)
+### [Notebook link](./Notebooks/CSME2-WS2122-BonusPointAssignment1.ipynb)
 <br>
 
 To mangage and uniform the dependencies, I recommend to use conda environment for the project.
