@@ -28,6 +28,6 @@ Matplotlib version:  3.5.0
 
 ### Running assignment with Jupyterlab
 ```console
-$ jupyter-lab ~/Bonus_assignment/Notebooks/
+$ jupyter-lab Notebooks/
 ```
 
