@@ -3,18 +3,18 @@
 ### [Bonus Assigment 1 PDF](./CSME2-WS2122-BonusPointAssignment1-1.pdf)
 ### [Notebook link](./Notebooks/CSME2-WS2122-BonusPointAssignment1.ipynb)
 ### Status:
--[x] A1
--[x] A2
--[x] A3
--[x] A4
--[ ] A5
--[ ] B1
--[ ] B2
--[ ] B3
--[ ] C1
--[ ] C2
--[ ] C3
--[ ] C4 (Optional)
+- [x] A1
+- [x] A2
+- [x] A3
+- [x] A4
+- [ ] A5
+- [ ] B1
+- [ ] B2
+- [ ] B3
+- [ ] C1
+- [ ] C2
+- [ ] C3
+- [ ] C4 (Optional)
 
 <br>
 
